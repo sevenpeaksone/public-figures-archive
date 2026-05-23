@@ -1,0 +1,86 @@
+{
+  "version": "public-figures-source-registry-v1",
+  "enabled": false,
+  "default_policy": {
+    "source_priority": [
+      "official_rss_or_api",
+      "official_newsroom",
+      "primary_documents",
+      "trusted_news_rss",
+      "full_text_fetch_for_discovered_urls"
+    ],
+    "html_crawl": "disabled_by_default; enable only per-source after robots/terms review",
+    "dedupe": [
+      "canonical_url",
+      "source_guid",
+      "normalized_title_hash",
+      "content_hash",
+      "person_event_date_topic_cluster"
+    ],
+    "quality_gate": [
+      "source_quality_score",
+      "relevance_score",
+      "novelty_score",
+      "risk_score",
+      "confidence_score"
+    ]
+  },
+  "people": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk",
+      "korean_name": "일론 머스크",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "jeff_bezos",
+      "name": "Jeff Bezos",
+      "korean_name": "제프 베조스",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "donald_trump",
+      "name": "Donald Trump",
+      "korean_name": "도널드 트럼프",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "lee_jae_myung",
+      "name": "Lee Jae-myung",
+      "korean_name": "이재명",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "barack_obama",
+      "name": "Barack Obama",
+      "korean_name": "버락 오바마",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "jensen_huang",
+      "name": "Jensen Huang",
+      "korean_name": "젠슨 황",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "mark_zuckerberg",
+      "name": "Mark Zuckerberg",
+      "korean_name": "마크 저커버그",
+      "enabled": false,
+      "sources": []
+    },
+    {
+      "id": "xi_jinping",
+      "name": "Xi Jinping",
+      "korean_name": "시진핑",
+      "enabled": false,
+      "sources": []
+    }
+  ]
+}

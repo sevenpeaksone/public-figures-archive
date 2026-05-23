@@ -1,0 +1,21 @@
+# OS/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Local secrets/config
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Runtime/cache
+.cache/
+tmp/
+*.log
+
+# Python/Node helpers if added later
+__pycache__/
+*.py[cod]
+node_modules/
