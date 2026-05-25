@@ -1,11 +1,23 @@
+---
+layout: default
+title: Public Figures Archive
+---
+
 # Public Figures Archive
 
-주요 인사 관련 상세 기사/분석/보고서를 모아두는 공개 archive입니다.
+상세 기사, 분석 원문, 이미지, 차트를 모아두는 공개 archive입니다.
 
-## Articles
+## Latest sample
 
-아직 공개 기사 파일이 없습니다. 자동화가 승인되면 `articles/YYYY/MM/` 아래에 상세 Markdown이 저장됩니다.
+- [주요 인사 모니터링은 발언보다 맥락을 함께 기록해야 한다](articles/2026/05/2026-05-25-public-figures-context-monitoring.html)
 
-## Reports
+## Content policy
 
-아직 공개 보고서 파일이 없습니다. 반복 보고서 생성은 사용자 승인 전까지 비활성입니다.
+- 단순 요약이 아니라 기사형/분석형/보고서형 원문을 저장합니다.
+- 필요한 경우 `assets/images/`와 `assets/charts/`의 공개 자산을 포함합니다.
+- 운영 로그, raw crawl output, credential, source registry는 이 공개 repo에 저장하지 않습니다.
+- 이 repo는 공개 열람용이며 무단 복제/재배포/AI 학습/사칭을 금지합니다.
+
+## Direct Pages URL
+
+- https://sevenpeaksone.github.io/public-figures-archive/articles/2026/05/2026-05-25-public-figures-context-monitoring.html
