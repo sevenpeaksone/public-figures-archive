@@ -9,6 +9,8 @@ title: Public Figures Archive
 
 ## Latest sample
 
+- [2026-05-26 주요인사·기관 오늘의 핵심 보고서](articles/2026/05/2026-05-26-public-figures-institutions-brief.html)
+
 - [주요 인사 모니터링은 발언보다 맥락을 함께 기록해야 한다](articles/2026/05/2026-05-25-public-figures-context-monitoring.html)
 
 ## Content policy
