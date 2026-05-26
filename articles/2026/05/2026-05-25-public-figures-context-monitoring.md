@@ -18,7 +18,7 @@ layout: default
 
 주요 인사 모니터링은 단순히 누가 무엇을 말했다는 기록에 그치면 오해를 만들 수 있습니다. 발언, 일정, 정책 맥락, 반복되는 주제, 출처 유형을 함께 기록해야 신뢰할 수 있는 보고서가 됩니다.
 
-![활동 분포 예시 차트](../../assets/charts/2026/05/public-figure-activity-distribution.svg)
+![활동 분포 예시 차트](../../../assets/charts/2026/05/public-figure-activity-distribution.svg)
 
 ## 주요 관찰
 
@@ -44,7 +44,6 @@ layout: default
 ## 고지
 
 이 문서는 공개 archive 링크 테스트를 위한 MVP 샘플 보고서입니다. 실제 자동화에서는 확인 가능한 공개 출처와 원문 링크를 함께 기록합니다.
-
 
 ---
 
