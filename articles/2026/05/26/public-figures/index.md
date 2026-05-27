@@ -9,16 +9,9 @@ status: "published"
 
 # 2026-05-26 주요인사 개별 브리프 인덱스
 
-## 공개 기준
-Google News 등 집계 링크는 공개 근거로 사용하지 않았고, 공식/권위 출처만 상세 페이지에 남겼습니다. 주요인사는 공식 SNS·공식 일정·기관 발표를 우선 출처로 삼도록 정책을 강화했습니다.
-
 ## 개별 상세 링크
-- [Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman](kevin-warsh-takes-oath-of-office-as-chairman-and-a-member-of-the-board-of-governors-of.html) — Federal Reserve Press Releases / 등급 A
-- [Jaclyn Kagey Shapes Humanity’s Return to the Moon](jaclyn-kagey-shapes-humanitys-return-to-the-moon.html) — NASA News Releases / 등급 A
-
-## 출처 등급 분포
-- A: 2건
-- B: 0건
+- [Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman](kevin-warsh-takes-oath-of-office-as-chairman-and-a-member-of-the-board-of-governors-of.html) — Federal Reserve Press Releases
+- [Jaclyn Kagey Shapes Humanity’s Return to the Moon](jaclyn-kagey-shapes-humanitys-return-to-the-moon.html) — NASA News Releases
 
 ## 발행 구조
 - 하루 카테고리 인덱스: 이 파일
