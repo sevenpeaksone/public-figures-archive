@@ -16,4 +16,4 @@ status: "published"
 ## 발행 구조
 - 하루 카테고리 인덱스: 이 파일
 - 개별 항목 상세: 위 링크 각각의 `.md` 파일
-- 외부 알림: 각 항목별 개별 GitHub Pages 링크를 사용
+- 외부 알림: 각 항목별 검증된 `public_url`을 사용합니다. GitHub Pages가 200이 아니면 GitHub 상세 문서 링크를 사용합니다.
