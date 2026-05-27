@@ -5,7 +5,6 @@ date: 2026-05-26
 topic: "주요인사"
 type: "article"
 status: "published"
-source_grade: "A"
 source_name: "NASA News Releases"
 ---
 
